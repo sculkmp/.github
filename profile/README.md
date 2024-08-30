@@ -1,4 +1,4 @@
-![Sculk](./Tsculk.png)
+![Sculk](../Tsculk.png)
 
 <div align="center">
   <h3 align="center">Sculk is open source server software for Minecraft: Bedrock Edition, It has a few key advantages over other server software</h3>
